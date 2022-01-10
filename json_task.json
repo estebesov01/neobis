@@ -1,0 +1,18 @@
+{
+    "firstName": "Nursultan",
+    "lastName": "Estebesov",
+    "age": 20,
+    "isMarried": false,
+    "address":{
+         "city": "Bishkek",
+         "street": "Tokombaeva",
+         "houseNumber": "22a"
+    },
+    "education":{
+         "university": "KSTU named after I. Razzakova",
+         "faculty": "Inforamtion Technologies",
+         "speciality": "Software Engineering",
+         "education": "incomplete HE"
+    },
+    "phoneNumber": "+996507444010"
+ }
